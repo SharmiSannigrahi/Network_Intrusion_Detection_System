@@ -1,0 +1,10 @@
+{
+  "features": [
+    "total_packets",
+    "avg_packet_size",
+    "max_packet_size",
+    "min_packet_size",
+    "std_packet_size",
+    "duration"
+  ]
+}

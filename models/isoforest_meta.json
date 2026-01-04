@@ -1,0 +1,11 @@
+{
+  "features": [
+    "pkt_count",
+    "byte_count",
+    "duration",
+    "avg_pkt_size",
+    "pps"
+  ],
+  "score_min": 0.33757557052828613,
+  "score_max": 0.8034215990013426
+}
