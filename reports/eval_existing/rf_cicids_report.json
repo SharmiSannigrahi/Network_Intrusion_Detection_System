@@ -1,0 +1,27 @@
+{
+  "Attack": {
+    "precision": 0.19699584385029384,
+    "recall": 1.0,
+    "f1-score": 0.32915042247202947,
+    "support": 111529.0
+  },
+  "Benign": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 454620.0
+  },
+  "accuracy": 0.19699584385029384,
+  "macro avg": {
+    "precision": 0.09849792192514692,
+    "recall": 0.5,
+    "f1-score": 0.16457521123601473,
+    "support": 566149.0
+  },
+  "weighted avg": {
+    "precision": 0.03880736249428935,
+    "recall": 0.19699584385029384,
+    "f1-score": 0.06484126522855817,
+    "support": 566149.0
+  }
+}

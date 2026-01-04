@@ -1,0 +1,15 @@
+# core
+pandas
+numpy
+scikit-learn
+scapy
+fastapi
+uvicorn[standard]
+elasticsearch>=7.10.0,<8.0.0
+joblib
+python-dotenv
+pydantic
+requests
+
+# For autoencoder
+torch
